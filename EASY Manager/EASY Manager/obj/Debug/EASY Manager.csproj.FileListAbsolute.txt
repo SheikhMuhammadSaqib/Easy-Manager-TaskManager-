@@ -1,0 +1,14 @@
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\bin\Debug\EASY Manager.exe.config
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\bin\Debug\EASY Manager.exe
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\bin\Debug\EASY Manager.pdb
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY Manager.csprojResolveAssemblyReference.cache
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY_Manager.Form1.resources
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY_Manager.Properties.Resources.resources
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY Manager.csproj.GenerateResource.Cache
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY Manager.exe
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY Manager.pdb
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\bin\Debug\MaterialSkin.dll
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\bin\Debug\MetroFramework.dll
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\bin\Debug\MetroFramework.Fonts.dll
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY_Manager.UcHistory.resources
+D:\SAQIB DATA\Connected VS\EASY Manager\EASY Manager\obj\Debug\EASY_Manager.Browser.resources
